@@ -15,7 +15,7 @@
 </table>
 
 <div>
-  <a href="https://x.com/PedroHenrihj3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-  <a href="https://www.npmjs.com/~SEU_USER" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/j4633705-cloud" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/PedroHenrihj3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.npmjs.com/~SEU_USER" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+  <a href="https://github.com/j4633705-cloud" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
