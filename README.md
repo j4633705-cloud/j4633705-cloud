@@ -2,11 +2,31 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,22c55e&height=180&section=header&text=Jo%C3%A3o&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=desenvolvedor%20autodidata%20·%20MG%2C%20Brasil&descAlignY=60&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,22c55e&height=140&section=header)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=construindo+ferramentas+que+eu+queria+ter;typescript+%2F+bun+%2F+ia+%2F+hardware;18%2B+provedores+de+LLM+no+terminal" alt="Typing SVG" />
+</div>
 
-<br/>
+```bash
+$ whoami
+João · autodidata · Minas Gerais, Brasil
+
+$ cat sobre.txt
+Desenvolvo ferramentas que eu queria ter.
+IA aplicada, terminal, hardware — nessa ordem.
+Aprendo construindo, não estudando em loop.
+
+$ ls ~/projetos
+prismcode/    signflow/    desktop-robot/    auth-boilerplate/
+
+$ cat prismcode/README.md | head -1
+Agente de IA para terminal · 18+ provedores de LLM · PLAN/BUILD mode
+```
+
+<div align="center">
+
+![Visitantes](https://komarev.com/ghpvc/?username=j4633705-cloud&color=22c55e&style=flat)
+
+</div>
 
 ![Visitantes](https://komarev.com/ghpvc/?username=j4633705-cloud&color=22c55e&style=flat)
 
