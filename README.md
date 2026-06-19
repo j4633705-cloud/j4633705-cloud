@@ -1,54 +1,21 @@
-<div align="center">
+# Hello World, I'm João, be very welcome
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&height=160&text=Hello%20World%2C%20I%27m%20Jo%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=be%20very%20welcome&descAlignY=68&descSize=18)
+<table>
+  <a href="https://github.com/j4633705-cloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j4633705-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4633705-cloud&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://img.icons8.com/color/2x/typescript.png" width="120" alt="TypeScript">
+  <img src="https://img.icons8.com/color/2x/javascript.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/react-native.png" width="120" alt="React">
+  <img src="https://img.icons8.com/color/2x/nodejs.png" width="120" alt="Node.js">
+  <img src="https://img.icons8.com/color/2x/postgreesql.png" width="120" alt="PostgreSQL">
+  <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="120" alt="C++">
+  <img src="https://img.icons8.com/color/2x/git.png" width="120" alt="Git">
+  <img src="https://img.icons8.com/color/2x/docker.png" width="120" alt="Docker">
+</table>
 
+<div>
+  <a href="https://x.com/PedroHenrihj3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+  <a href="https://www.npmjs.com/~SEU_USER" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/j4633705-cloud" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
-<br/>
-
-<div align="center">
-
-[![stats](https://github-readme-stats.vercel.app/api?username=j4633705-cloud&show_icons=true&theme=dracula&hide_border=true)](https://github.com/j4633705-cloud)&nbsp;&nbsp;
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4633705-cloud&layout=donut&theme=dracula&hide_border=true)](https://github.com/j4633705-cloud)
-
-</div>
-
-<br/>
-
-<p align="center">
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></code>
-</p>
-
-<p align="center">
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></code>&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" /></code>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://x.com/PedroHenrihj3" title="X / Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&labelColor=1d9bf0&logo=x&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.npmjs.com/~SEU_USER" title="npm">
-    <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=CB3837&logo=npm&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/j4633705-cloud" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=j4633705-cloud&color=22c55e&style=flat" />
-</p>
