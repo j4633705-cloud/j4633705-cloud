@@ -1,7 +1,16 @@
 ![Visitantes](https://komarev.com/ghpvc/?username=j4633705-cloud&color=22c55e&style=flat)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22C55E&width=480&lines=desenvolvedor+autodidata+%F0%9F%87%A7%F0%9F%87%B7;construindo+ferramentas+que+eu+queria+ter;typescript+%2F+bun+%2F+ia+%2F+hardware" alt="Typing SVG" />
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,22c55e&height=180&section=header&text=Jo%C3%A3o&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=desenvolvedor%20autodidata%20·%20MG%2C%20Brasil&descAlignY=60&descSize=16)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=480&lines=construindo+ferramentas+que+eu+queria+ter;typescript+%2F+bun+%2F+ia+%2F+hardware;18%2B+provedores+de+LLM+no+terminal" alt="Typing SVG" />
+
+<br/>
+
+![Visitantes](https://komarev.com/ghpvc/?username=j4633705-cloud&color=22c55e&style=flat)
+
+</div>
 ---
 
 ## Sobre mim
